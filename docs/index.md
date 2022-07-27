@@ -21,18 +21,28 @@ permalink: /
 
 ### Multiple Choice Track
 
-| Model        | Submission Time| Original | NOTA | 
+| Model        | Submission Time (GMT) | Original | NOTA | 
 |:-------------|:---------|:---------|:-----|
-| GPT3         | Fri Jul 15 16:19:23 GMT 2022 | 72.0     | 64.9 |
-| T5           | Fri Jul 15 16:19:23 GMT 2022 | 70.0     | 62.7 |
+|GPT-3 + Google Custom Search|2022-07-23 03:00:00|73.3|53.3|
+|GPT-3 (Closed-Book)|2022-07-23 03:00:00|53.3|30.0|
+|GPT-3 + DPR|2022-07-23 03:00:00|50.0|33.3|
+|RAG + Google Custom Search|2022-07-23 03:00:00|40.0|36.7|
+|RAG + DPR|2022-07-23 03:00:00|26.7|23.3|
+|T5 (Closed-Book)|2022-07-23 03:00:00|23.3|30.0|
+
 
 
 ### Generation Track
 
-| Model        | ⊿ t (dd:hh:mm:ss) | EM   | F1   | 
+| Model        | Submission Time (GMT) | EM | F1 | 
 |:-------------|:---------|:---------|:-----|
-| GPT3         | 00:01:35:12 | 72.0     | 64.9 |
-| T5           | 00:01:35:12 | 70.0     | 62.7 |
+|GPT-3 + Google Custom Search|2022-07-23 03:00:00|26.7|40.6|
+|RAG + Google Custom Search|2022-07-23 03:00:00|16.7|23.0|
+|GPT-3 + DPR|2022-07-23 03:00:00|10.0|15.7|
+|GPT-3 (Closed-Book)|2022-07-23 03:00:00|6.7|17.4|
+|RAG + DPR|2022-07-23 03:00:00|3.3|7.2|
+|T5 (Closed-Book)|2022-07-23 03:00:00|3.3|6.3|
+
 
 
 
