@@ -9,7 +9,6 @@ permalink: /
 # Welcome to RealTime QA
 {: .fs-9 }
 
-**NOTE: This is currently under construction. It will be ready soon.**
 
 {: .fs-6 .fw-300 }
 
