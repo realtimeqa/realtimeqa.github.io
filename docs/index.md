@@ -16,7 +16,7 @@ permalink: /
 
 ---
 
-## Latest results <span style="font-size: 80%">([see previous results](https://realtimeqa.github.io/docs/results/2022/))</span>
+## Latest results 
 
 ### Multiple Choice Track
 
@@ -43,6 +43,7 @@ permalink: /
 |RAG + DPR|2022-07-30 03:00:00|3.3|5.0|
 
 
+([see previous results](https://realtimeqa.github.io/docs/results/2022/))
 
 
 ## Make a new submission
