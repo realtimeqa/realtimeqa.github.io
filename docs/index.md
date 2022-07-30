@@ -16,7 +16,7 @@ permalink: /
 
 ---
 
-## Latest results
+## Latest results <span style="font-size: 80%">([see previous results](https://realtimeqa.github.io/docs/results/2022/))</span>
 
 ### Multiple Choice Track
 
