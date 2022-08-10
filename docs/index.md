@@ -48,4 +48,8 @@ permalink: /
 
 ([see previous results](https://realtimeqa.github.io/docs/results/2022/))
 
+## Make a new submission
 
+1. Download the latest set of RealTime QA ([link](https://github.com/realtimeqa/realtimeqa_public))
+
+1. Submit your model predictions. ([link](https://forms.gle/6xANYtedAf8UrqyY8))
