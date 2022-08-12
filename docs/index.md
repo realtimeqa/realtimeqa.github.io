@@ -24,12 +24,12 @@ permalink: /
 
 | Model        | Submission Time (GMT) | Original | NOTA | 
 |:-------------|:---------|:---------|:-----|
-|GPT-3 + Google Custom Search|2022-08-06 03:00:00|76.7|63.3|
-|RAG + Google Custom Search|2022-08-06 03:00:00|56.7|43.3|
-|T5 (Closed-Book)|2022-08-06 03:00:00|50.0|40.0|
-|GPT-3 + DPR|2022-08-06 03:00:00|46.7|43.3|
-|GPT-3 (Closed-Book)|2022-08-06 03:00:00|40.0|40.0|
-|RAG + DPR|2022-08-06 03:00:00|23.3|26.7|
+|GPT-3 + Google Custom Search|2022-08-13 03:00:00|83.3|66.7|
+|GPT-3 (Closed-Book)|2022-08-13 03:00:00|60.0|40.0|
+|GPT-3 + DPR|2022-08-13 03:00:00|56.7|40.0|
+|RAG + Google Custom Search|2022-08-13 03:00:00|56.7|36.7|
+|T5 (Closed-Book)|2022-08-13 03:00:00|43.3|30.0|
+|RAG + DPR|2022-08-13 03:00:00|30.0|20.0|
 
 
 
@@ -37,12 +37,12 @@ permalink: /
 
 | Model        | Submission Time (GMT) | EM | F1 | 
 |:-------------|:---------|:---------|:-----|
-|GPT-3 + Google Custom Search|2022-08-06 03:00:00|36.7|51.5|
-|RAG + Google Custom Search|2022-08-06 03:00:00|33.3|42.8|
-|T5 (Closed-Book)|2022-08-06 03:00:00|16.7|21.1|
-|GPT-3 (Closed-Book)|2022-08-06 03:00:00|10.0|19.7|
-|GPT-3 + DPR|2022-08-06 03:00:00|10.0|18.1|
-|RAG + DPR|2022-08-06 03:00:00|0.0|1.7|
+|GPT-3 + Google Custom Search|2022-08-13 03:00:00|41.4|49.9|
+|RAG + Google Custom Search|2022-08-13 03:00:00|34.5|37.2|
+|GPT-3 + DPR|2022-08-13 03:00:00|31.0|37.4|
+|GPT-3 (Closed-Book)|2022-08-13 03:00:00|24.1|30.5|
+|T5 (Closed-Book)|2022-08-13 03:00:00|13.8|19.0|
+|RAG + DPR|2022-08-13 03:00:00|3.4|5.2|
 
 
 
@@ -52,4 +52,6 @@ permalink: /
 
 1. Download the latest set of RealTime QA ([link](https://github.com/realtimeqa/realtimeqa_public))
 
-1. Submit your model predictions. ([link](https://forms.gle/6xANYtedAf8UrqyY8))
+1. Submit your model predictions. ([submission form](https://forms.gle/6xANYtedAf8UrqyY8))
+
+    Submission examples (`.jsonl file`) are available [here](https://github.com/realtimeqa/realtimeqa_public/tree/main/baseline_results)
