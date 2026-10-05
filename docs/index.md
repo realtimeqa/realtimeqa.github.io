@@ -24,24 +24,24 @@ permalink: /
 
 | Model        | Submission Time (GMT) | Original | NOTA | 
 |:-------------|:---------|:---------|:-----|
-|gpt-5.6-sol|2026-09-26 03:00:00|10.0|5.0|
-|gpt-5.5|2026-09-26 03:00:00|5.0|5.0|
-|claude-fable-5|2026-09-26 03:00:00|5.0|5.0|
-|llama-4-scout|2026-09-26 03:00:00|5.0|5.0|
-|qwen3.8-2.4t-a95b|2026-09-26 03:00:00|5.0|5.0|
-|llama-4-maverick|2026-09-26 03:00:00|5.0|0.0|
-|llama-4-maverick + Google Custom Search|2026-09-26 03:00:00|5.0|0.0|
-|gpt-5.6-sol + Google Custom Search|2026-09-26 03:00:00|0.0|10.0|
-|gpt-5.5 + Google Custom Search|2026-09-26 03:00:00|0.0|5.0|
-|gemini-3.6-flash|2026-09-26 03:00:00|0.0|5.0|
-|gemini-3.6-flash + Google Custom Search|2026-09-26 03:00:00|0.0|5.0|
-|gemini-3.7-flash|2026-09-26 03:00:00|0.0|5.0|
-|claude-fable-5 + Google Custom Search|2026-09-26 03:00:00|0.0|5.0|
-|qwen3.8-2.4t-a95b + Google Custom Search|2026-09-26 03:00:00|0.0|5.0|
-|gemini-3.7-flash + Google Custom Search|2026-09-26 03:00:00|0.0|0.0|
-|claude-opus-5|2026-09-26 03:00:00|0.0|0.0|
-|claude-opus-5 + Google Custom Search|2026-09-26 03:00:00|0.0|0.0|
-|llama-4-scout + Google Custom Search|2026-09-26 03:00:00|0.0|0.0|
+|llama-4-scout|2026-10-03 03:00:00|35.0|35.0|
+|llama-4-scout + Google Custom Search|2026-10-03 03:00:00|30.0|25.0|
+|gemini-3.6-flash|2026-10-03 03:00:00|30.0|15.0|
+|llama-4-maverick + Google Custom Search|2026-10-03 03:00:00|30.0|15.0|
+|claude-opus-5 + Google Custom Search|2026-10-03 03:00:00|30.0|10.0|
+|qwen3.8-2.4t-a95b + Google Custom Search|2026-10-03 03:00:00|25.0|25.0|
+|gemini-3.6-flash + Google Custom Search|2026-10-03 03:00:00|25.0|20.0|
+|gemini-3.7-flash + Google Custom Search|2026-10-03 03:00:00|25.0|20.0|
+|gemini-3.7-flash|2026-10-03 03:00:00|25.0|15.0|
+|claude-opus-5|2026-10-03 03:00:00|25.0|15.0|
+|llama-4-maverick|2026-10-03 03:00:00|20.0|35.0|
+|gpt-5.6-sol|2026-10-03 03:00:00|20.0|20.0|
+|gpt-5.6-sol + Google Custom Search|2026-10-03 03:00:00|20.0|20.0|
+|claude-fable-5 + Google Custom Search|2026-10-03 03:00:00|20.0|20.0|
+|qwen3.8-2.4t-a95b|2026-10-03 03:00:00|20.0|20.0|
+|gpt-5.5 + Google Custom Search|2026-10-03 03:00:00|20.0|15.0|
+|gpt-5.5|2026-10-03 03:00:00|15.0|20.0|
+|claude-fable-5|2026-10-03 03:00:00|10.0|15.0|
 
 
 
@@ -49,24 +49,24 @@ permalink: /
 
 | Model        | Submission Time (GMT) | EM | F1 | 
 |:-------------|:---------|:---------|:-----|
-|gemini-3.7-flash + Google Custom Search|2026-09-26 03:00:00|45.0|56.8|
-|gpt-5.6-sol + Google Custom Search|2026-09-26 03:00:00|40.0|59.4|
-|gpt-5.6-sol|2026-09-26 03:00:00|40.0|52.3|
-|gemini-3.7-flash|2026-09-26 03:00:00|40.0|50.2|
-|claude-fable-5 + Google Custom Search|2026-09-26 03:00:00|35.0|50.9|
-|gpt-5.5|2026-09-26 03:00:00|35.0|45.9|
-|claude-fable-5|2026-09-26 03:00:00|35.0|43.0|
-|gemini-3.6-flash|2026-09-26 03:00:00|35.0|42.3|
-|gpt-5.5 + Google Custom Search|2026-09-26 03:00:00|30.0|48.2|
-|qwen3.8-2.4t-a95b + Google Custom Search|2026-09-26 03:00:00|30.0|44.3|
-|llama-4-scout + Google Custom Search|2026-09-26 03:00:00|30.0|40.7|
-|qwen3.8-2.4t-a95b|2026-09-26 03:00:00|25.0|36.3|
-|gemini-3.6-flash + Google Custom Search|2026-09-26 03:00:00|25.0|35.7|
-|llama-4-scout|2026-09-26 03:00:00|25.0|32.3|
-|claude-opus-5 + Google Custom Search|2026-09-26 03:00:00|20.0|33.5|
-|llama-4-maverick + Google Custom Search|2026-09-26 03:00:00|15.0|31.1|
-|llama-4-maverick|2026-09-26 03:00:00|15.0|19.0|
-|claude-opus-5|2026-09-26 03:00:00|10.0|20.7|
+|gpt-5.5|2026-10-03 03:00:00|25.0|29.2|
+|gemini-3.6-flash|2026-10-03 03:00:00|25.0|25.0|
+|gemini-3.7-flash|2026-10-03 03:00:00|20.0|20.0|
+|gpt-5.6-sol|2026-10-03 03:00:00|15.0|22.7|
+|claude-fable-5|2026-10-03 03:00:00|15.0|21.2|
+|gpt-5.6-sol + Google Custom Search|2026-10-03 03:00:00|15.0|19.2|
+|claude-fable-5 + Google Custom Search|2026-10-03 03:00:00|15.0|15.5|
+|llama-4-scout|2026-10-03 03:00:00|10.0|14.2|
+|qwen3.8-2.4t-a95b|2026-10-03 03:00:00|10.0|13.1|
+|gpt-5.5 + Google Custom Search|2026-10-03 03:00:00|10.0|12.5|
+|gemini-3.7-flash + Google Custom Search|2026-10-03 03:00:00|10.0|12.5|
+|llama-4-scout + Google Custom Search|2026-10-03 03:00:00|10.0|11.7|
+|llama-4-maverick + Google Custom Search|2026-10-03 03:00:00|10.0|10.0|
+|claude-opus-5|2026-10-03 03:00:00|5.0|11.3|
+|llama-4-maverick|2026-10-03 03:00:00|5.0|6.7|
+|qwen3.8-2.4t-a95b + Google Custom Search|2026-10-03 03:00:00|5.0|6.7|
+|gemini-3.6-flash + Google Custom Search|2026-10-03 03:00:00|5.0|5.0|
+|claude-opus-5 + Google Custom Search|2026-10-03 03:00:00|0.0|7.2|
 
 
 
